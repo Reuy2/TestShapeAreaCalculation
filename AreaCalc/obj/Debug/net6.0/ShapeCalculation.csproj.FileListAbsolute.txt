@@ -1,0 +1,11 @@
+D:\Проекты\AreaCalc\bin\Debug\net6.0\ShapeCalculation.deps.json
+D:\Проекты\AreaCalc\bin\Debug\net6.0\ShapeCalculation.dll
+D:\Проекты\AreaCalc\bin\Debug\net6.0\ShapeCalculation.pdb
+D:\Проекты\AreaCalc\obj\Debug\net6.0\ShapeCalculation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты\AreaCalc\obj\Debug\net6.0\ShapeCalculation.AssemblyInfoInputs.cache
+D:\Проекты\AreaCalc\obj\Debug\net6.0\ShapeCalculation.AssemblyInfo.cs
+D:\Проекты\AreaCalc\obj\Debug\net6.0\ShapeCalculation.csproj.CoreCompileInputs.cache
+D:\Проекты\AreaCalc\obj\Debug\net6.0\ShapeCalculation.dll
+D:\Проекты\AreaCalc\obj\Debug\net6.0\refint\ShapeCalculation.dll
+D:\Проекты\AreaCalc\obj\Debug\net6.0\ShapeCalculation.pdb
+D:\Проекты\AreaCalc\obj\Debug\net6.0\ref\ShapeCalculation.dll
